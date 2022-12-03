@@ -37,6 +37,11 @@
         <artifactId>module-2</artifactId>
         <version>${project.version}</version>
       </dependency>
+      <dependency>
+        <groupId>pl.edu.wszib</groupId>
+        <artifactId>module-3</artifactId>
+        <version>${project.version}</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 
