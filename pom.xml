@@ -10,8 +10,7 @@
   <packaging>pom</packaging>
 
   <name>first-maven-app</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+
   <modules>
     <module>module-1</module>
     <module>module-2</module>
